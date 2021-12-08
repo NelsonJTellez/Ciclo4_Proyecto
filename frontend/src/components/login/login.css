@@ -1,0 +1,19 @@
+#login-container {
+  margin-top: 16%;
+}
+
+#login-container h2,
+#login-container button,
+#login-container form {
+  width: 100%;
+}
+
+#login-container #btn-iniciar-sesion {
+  margin-top: 15px;
+  background-color: #1bd084;
+  border-color: #1bd084;
+}
+
+#login-container .form-label {
+  float: left;
+}

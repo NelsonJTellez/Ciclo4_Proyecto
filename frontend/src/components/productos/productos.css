@@ -1,0 +1,102 @@
+.carousel-inner {
+  height: 600px;
+}
+
+.contenedor {
+  background-color: #1bd084;
+}
+
+.body card-body {
+  width: 20vh;
+  background-color: aliceblue;
+}
+
+.formulario {
+  margin-top: 20px;
+  background-color: rgb(57, 115, 126);
+}
+
+.carousel slide {
+  height: 500px;
+}
+
+#productos-buscar-container {
+  background-color: #bed7f8;
+  padding-top: 120px, 20px, 10px, 10px;
+}
+
+.Boton {
+  margin-top: 5px;
+  margin-left: 10px;
+  color: rgb(243, 235, 235);
+  position: absolute;
+  bottom: 12px;
+  left: 100px;
+  justify-content: center;
+}
+
+.Card {
+  margin-top: 50px;
+  margin-right: 10px;
+  border-radius: 35px;
+  background-color: rgb(39, 39, 39);
+}
+
+.body {
+  background-color: rgb(183, 218, 251);
+  margin-top: 10px;
+  border-radius: 10px;
+}
+
+.card-group {
+  margin-top: 10vh;
+  background-color: rgb(70, 70, 70);
+}
+
+/* css */
+
+#productos-container {
+  margin-top: 150px;
+}
+
+#productos-buscar-container,
+#productos-crear-container {
+  margin-top: 50px;
+}
+
+.react-bs-table-sizePerPage-dropdown .dropdown-toggle {
+  float: left;
+  margin-bottom: 10px;
+  background-color: #a6cc28;
+}
+
+.search-label {
+  float: right;
+  padding-bottom: 10px;
+}
+
+.sr-only {
+  font-size: 0;
+}
+
+#productos-crear-container .form-label {
+  float: left;
+  margin-bottom: 10px;
+}
+
+#productos-crear-container #btn-enviar {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  background-color: #bed01b;
+  border-color: #1bd084;
+}
+
+.page-item.active .page-link {
+  background-color: #2770b4;
+  border-color: #1bd084;
+}
+
+#btn-eliminar {
+  background-color: rgb(10, 10, 10);
+  border-color: rgb(22, 21, 21);
+}
