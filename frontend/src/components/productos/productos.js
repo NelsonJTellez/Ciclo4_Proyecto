@@ -21,10 +21,7 @@ export default function Productos(props) {
             cantidad: <b>{props.stock}</b>
           </Card.Text>
 
-          {/* <Card.Text>
-                   categoria: <b>{props.categoria}</b>
-            </Card.Text> */}
-        </Card.Body>
+      
 
         <Button className="Boton">Comprar</Button>
       </Card>
